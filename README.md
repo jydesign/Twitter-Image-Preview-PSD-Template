@@ -7,4 +7,5 @@ http://jydesign.com/twitter-image-preview-psd-template
 Links to downloading this file will soon be re-directed to this repo in order to ease ongoing maintenance as well as open the file up to the community for ideas for improvement.
 
 **Download PSD File:**
+
 https://github.com/jydesign/Twitter-Image-Preview-PSD-Template/blob/master/Twitter%20Image%20Preview%20Template.psd
